@@ -14,6 +14,6 @@ print("Hello, world!!!!!!")
 print("I wanted to say hello world again!!!")
 ```
 ```{r}
-print("The dog loves the park.")
+print("The dog loves the park")
 ```
 
